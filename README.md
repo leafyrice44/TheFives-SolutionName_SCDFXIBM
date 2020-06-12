@@ -9,20 +9,19 @@ materials you will have to submit:
 1. README.md
 Your README.md should contain:
 Short description of your team members, and team name.
-  - A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing*
-  - Pitch Video*
-  - The architecture of your proposed solution*
-  - A hyperlink to your detailed solution* (Long description of your solution)
+  - **A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing***
+  - **Pitch Video***
+  - **The architecture of your proposed solution***
+  - **A hyperlink to your detailed solution*** (Long description of your solution)
   - Project Roadmap/ Proposed timeline
-  - Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
+  - **Getting started*** (Step-by-step instructions to install the required software and how to run a demo of your solution)
   - Running the tests (Explanation and breakdown on how to run tests for the proposed solution)
   - Live demo (Link to an actual working demo/website)
-  - What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
+  - **What your team used to build your solution*** (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
 
 *Items marked with an asterisk are compulsory
 
 2. Folder that contains your team’s codes
-
   - Note that you may code in any language (e.g. Python, C++, Java Script, etc.)
 
 Resources and References:
