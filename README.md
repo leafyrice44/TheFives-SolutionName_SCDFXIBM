@@ -6,8 +6,9 @@ After completing your project, you will have to upload several materials on to y
 repository. Do ensure that your team’s name is reflected on your repository. These are the
 materials you will have to submit:
 
-1. README.md
+#### 1. README.md
 Your README.md should contain:
+
 Short description of your team members, and team name.
   - **A short description of the problem you are tackling, how technology can help, as well as the idea your team is proposing***
   - **Pitch Video***
@@ -21,7 +22,7 @@ Short description of your team members, and team name.
 
 *Items marked with an asterisk are compulsory
 
-2. Folder that contains your team’s codes
+#### 2. Folder that contains your team’s codes
   - Note that you may code in any language (e.g. Python, C++, Java Script, etc.)
 
 
