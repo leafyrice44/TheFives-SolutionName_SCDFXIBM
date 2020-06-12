@@ -24,7 +24,8 @@ Short description of your team members, and team name.
 2. Folder that contains your team’s codes
   - Note that you may code in any language (e.g. Python, C++, Java Script, etc.)
 
-Resources and References:
+
+### Resources and References:
 [Markdown Cheat Sheet]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Markdown Cheat Sheet (Alternative)]https://www.markdownguide.org/cheat-sheet/
 [Creating New folders]https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
