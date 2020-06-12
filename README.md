@@ -26,8 +26,8 @@ Short description of your team members, and team name.
 
 
 ### Resources and References:
-[Markdown Cheat Sheet]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[Markdown Cheat Sheet (Alternative)]https://www.markdownguide.org/cheat-sheet/
-[Creating New folders]https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
-[Sample Repository]https://github.com/Code-and-Response/Project-Sample
-[Sample Repository (Advanced)]https://github.com/sparrow-platform
+  - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [Markdown Cheat Sheet (Alternative)](https://www.markdownguide.org/cheat-sheet/)
+  - [Guide for creating New GitHub folders](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser)
+  - [Sample Repository](https://github.com/Code-and-Response/Project-Sample)
+  - [Sample Repository (Advanced)](https://github.com/sparrow-platform)
